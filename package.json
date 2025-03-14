@@ -1,0 +1,30 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrushikesh44/vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrushikesh44/vercel/issues"
+  },
+  "homepage": "https://github.com/hrushikesh44/vercel#readme",
+  "description": "",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "redis": "^4.7.0",
+    "simple-git": "^3.27.0",
+    "typescript": "^5.8.2"
+  }
+}
